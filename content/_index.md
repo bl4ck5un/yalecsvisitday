@@ -188,6 +188,16 @@ Below are links to relevant sites about the Department and related organizations
     </div>
   </div>
 
+  <div class="place-card">
+    <div class="place-media">
+      <img src="/cadmy.png" width="200"/>
+    </div>
+    <div class="place-body">
+      <strong>Center for Algorithms, Data, and Market Design at Yale (CADMY)</strong><br/>
+      The <a href="https://cadmy.yale.edu/">Center for Algorithms, Data, and Market Design at Yale (CADMY)</a> serves as a cutting-edge research hub for faculty and graduate students working at the intersection of economics, computer science, and data science.
+    </div>
+  </div>
+
 
 </div>
 
