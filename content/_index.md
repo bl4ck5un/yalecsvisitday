@@ -44,7 +44,7 @@ extra.1on1meeting = "https://visitday.cs.yale.edu"
 <style>
   td {
     vertical-align: middle;
-    text-align: justify;
+    /* text-align: justify; */
   }
 
   td strong:first-of-type {
@@ -78,31 +78,31 @@ Note the locations across events:
 
 ## March 6th
 
-| Time            | Event Details |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **8:30am–9:45am**   | **Check-in & Breakfast**<br>Location: AKW 2nd Floor Atrium |
-| **9:45am–10:00am**  | **Break / Walk to Watson Center**<br>Walk to WTS |
-| **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A60 |
-| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: TBD |
-| **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations |
-| **11:15am–12:15pm** | **Faculty Research Showcase**<br> {{ showcase_cell() }} |
-| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>Note: Some [one-on-one meetings](#) start at 1 pm |
-| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](#) with faculty during this time<br>☕️ Coffee will be served at 2:30pm at AKW 2nd Floor Atrium| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
-| **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
-| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A60<br>Panelists: TBD |
-| **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
-| **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium|
-| **5:45pm–6:00pm**   | **Break** |
-| **6:00pm–8:00pm**   | **Dinner at [Atelier Florian](https://atelierflorian.net/)**<br>Enjoy dinner with faculty and newly admitted CS PhD students.<br>Location: Atelier Florian, 1166 Chapel St, New Haven, CT 06511 |
+| Time                | Event Details                                                                                                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **8:30am–9:45am**   | **Check-in & Breakfast**<br>Location: AKW 2nd Floor Atrium                                                                                                                                                   |
+| **9:45am–10:00am**  | **Break / Walk to Watson Center**<br>Walk to WTS                                                                                                                                                             |
+| **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A60                                                                                                                                    |
+| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: TBD                                                                                                                                    |
+| **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations                                                                                                                                            |
+| **11:15am–12:15pm** | **Faculty Research Showcase**<br> {{ showcase_cell() }}                                                                                                                                                      |
+| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>Note: Some [one-on-one meetings](#) start at 1 pm                                                                                                       |
+| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](#) with faculty during this time<br>☕️ Coffee will be served at 2:30pm at AKW 2nd Floor Atrium                           | **2:00pm–3:00pm** | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
+| **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium                                                                                                                    |
+| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A60<br>Panelists: TBD                                                                                                                                 |
+| **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students                                                                                                                         |
+| **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium                                                                                                                   |
+| **5:45pm–6:00pm**   | **Break**                                                                                                                                                                                                    |
+| **6:00pm–8:00pm**   | **Dinner at [Atelier Florian](https://atelierflorian.net/)**<br><span>Enjoy dinner with faculty and newly admitted CS PhD students.</span><br>Location: Atelier Florian, 1166 Chapel St, New Haven, CT 06511 |
 
 ## March 7th
 
-| Time            | Event Details |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **9:00am–10:45am**  | **Breakfast with Faculty/Lab Tours**<br>Meet with your faculty hosts, tour their labs and see their research in action!<br><br>**Individual one-on-one meetings**<br>Some students might have one-on-one meetings with faculty during this time|
-| **10:45am–11:00am** | **Break / Transition**<br>Walk to Campus Tour |
-| **11:00am–12:00pm** | **Yale Campus Tour**<br>Location: Yale Visitor Center at 149 Elm Street, New Haven, CT 06511 |
-| **12:00pm onwards** | **Explore New Haven on Your Own**|
+| Time                | Event Details                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **9:00am–10:45am**  | **Breakfast with Faculty/Lab Tours**<br>Meet with your faculty hosts, tour their labs and see their research in action!<br><br>**Individual one-on-one meetings**<br>Some students might have one-on-one meetings with faculty during this time |
+| **10:45am–11:00am** | **Break / Transition**<br>Walk to Campus Tour                                                                                                                                                                                                   |
+| **11:00am–12:00pm** | **Yale Campus Tour**<br>Location: Yale Visitor Center at 149 Elm Street, New Haven, CT 06511                                                                                                                                                    |
+| **12:00pm onwards** | **Explore New Haven on Your Own**                                                                                                                                                                                                               |
 
 This is where the official Visit Day events end, but if you are around, explore the historic city of New Haven! It has a lot to offer; here are a few things to get you started:
 
@@ -139,7 +139,8 @@ Below are links to relevant sites about the Department and related organizations
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="200"/>
     </div>
     <div class="place-body">
-      <strong>Arthur K. Watson Hall</strong><br/>Arthur Kittredge “Dick” Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The Computer Science Building is named in his honor. His father Thomas J. Watson was the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the <em><a href="https://research.computing.yale.edu/">Yale Center for Research Computing</a></em>. In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts.
+      <strong>Arthur K. Watson Hall</strong>
+      Arthur Kittredge “Dick” Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The Computer Science Building is named in his honor. His father Thomas J. Watson was the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the <em><a href="https://research.computing.yale.edu/">Yale Center for Research Computing</a></em>. In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts.
     </div>
   </div>
 

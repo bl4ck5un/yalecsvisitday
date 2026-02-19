@@ -11,7 +11,8 @@ $h6-font-size: 1rem !default;
 
 $color-text: #212529 !default;
 $color-primary: #007bff !default;
-$color-light: #f8f9fa !default;
+// $color-light: #f8f9fa !default;
+$color-light: #eef1f4 !default;
 $color-white: #fff !default;
 $color-black: #000 !default;
 
@@ -50,6 +51,6 @@ $color-link-hover: darken !default;
 @import "_grid.scss";
 @import "_responsive.scss";
 @import "_places.scss";
+@import "_fonts.scss";
 @import "_main.scss";
 
-@import "yale_font.scss";

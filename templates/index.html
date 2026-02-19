@@ -48,7 +48,8 @@
     {% block content %}
         <div class="bg-even">
             <section class="container content py-5">
-                {{ list::insert_list(content = this.content) | safe }}
+                {# list::insert_list(content = this.content) | safe #}
+                {{ this.content | safe }}
             </section>
         </div>
     {% endblock %}
