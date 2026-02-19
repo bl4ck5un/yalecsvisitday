@@ -20,7 +20,7 @@
 {% block header %}
 <header class="bg-odd{% if config.extra.banner %} bg-{{ config.extra.banner.extension }} bg-{{ config.extra.banner.size }}{%if config.extra.banner.no_repeat %} bg-no-repeat{% endif %}{% endif %}">
     <div class="container d-flex justify-center">
-        <div class="header text-center px-3 py-4{% if config.extra.banner.fade %} fade{% endif %}">
+        <div class="header text-center px-3 py-8{% if config.extra.banner.fade %} fade{% endif %}">
             {% if config.extra.title.url %}<a href="{% if config.extra.title.url is string %}{{ config.extra.title.url }}{% else %}{{ get_url(path = '/') }}{% endif %}">{% endif %}
             <h1 id="home" style="color:white;"><strong>{% if config.extra.title.tagline %}<span class="tagline h3">{{ config.extra.title.tagline }}</span> {% endif %}{{ config.extra.title.title }}</strong></h1>
             {% if config.extra.title.url %}</a>{% endif %}

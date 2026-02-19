@@ -1,17 +1,15 @@
-base_url = "https://avivyaish.github.io/yalecsvisitday"
+base_url = "https://visitday.cs.yale.edu"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
 minify_html = true
 
 [markdown]
-highlight_code = true
-highlight_theme = "css"
 smart_punctuation = true
 
 [extra]
-footer_text = "Yale CS Visit Day '25, New Haven, CT, USA - Friday, March 7th, 2025."
-title = {tagline = "   ", title = "Yale CS Visit Day '25", subtitles = ["New Haven, CT, USA — March 7-8th, 2025"]}
+footer_text = "Yale CS Visit Day '26, New Haven, CT, USA"
+title = {tagline = "   ", title = "Yale CS Visit Day '26", subtitles = ["New Haven, CT, USA — March 6-7th, 2026"]}
 banner = {extension = "jpg", size = "fixed", fade = false}
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10

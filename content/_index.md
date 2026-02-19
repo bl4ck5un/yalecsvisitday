@@ -1,5 +1,44 @@
 +++
-title = "Yale CS Visit Day '25"
+title = "Yale CS Visit Day '26"
+
+[[extra.showcase.sessions]]
+name = "Session 1"
+room = "WTS A60"
+people = [
+  # { name = "Hoon Cho", url = "https://hcholab.org/" },
+  # { name = "Katerina Sotiraki", url = "https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki" },
+  # { name = "Fan Zhang", url = "https://fanzhang.me" },
+  # { name = "Quanquan Liu", url = "https://quanquancliu.com/" },
+]
+
+[[extra.showcase.sessions]]
+name = "Session 2"
+room = "WTS A53"
+people = [
+  # { name = "Tom McCoy", url = "https://rtmccoy.com/" },
+  # { name = "Tyler Brooke-Wilson", url = "https://sites.google.com/site/tylerbrookewilson/Home" },
+  # { name = "Smita Krishnaswamy", url = "https://krishnaswamylab.org/" },
+]
+
+[[extra.showcase.sessions]]
+name = "Session 3"
+room = "WTS A74"
+people = [
+  # { name = "Alex Lew", url = "https://alexlew.net/" },
+  # { name = "Ruzica Piskac", url = "https://www.cs.yale.edu/homes/piskac/" },
+  # { name = "Lin Zhong", url = "https://www.linzhong.org/" },
+]
+
+[[extra.showcase.sessions]]
+name = "Session 4"
+room = "WTS B60"
+people = [
+  # { name = "Alex Lew", url = "https://alexlew.net/" },
+  # { name = "Ruzica Piskac", url = "https://www.cs.yale.edu/homes/piskac/" },
+  # { name = "Lin Zhong", url = "https://www.linzhong.org/" },
+]
+
+extra.1on1meeting = "https://visitday.cs.yale.edu"
 +++
 
 <style>
@@ -20,7 +59,7 @@ title = "Yale CS Visit Day '25"
 </style>
 
 Congratulations again to all newly admitted PhD Students!
-This website provides information about Yale's Computer Science Department Visit Day planned for March 7-8th, 2025.
+This website provides information about Yale's Computer Science Department Visit Day planned for **March 6-7th, 2026**.
 Additionally, it offers valuable resources for new students, including information about the CS Department and Yale and examples of research projects by current students.
 
 {{ new_block() }}
@@ -35,29 +74,28 @@ Note the locations across events:
 - [Watson Center (WTS)](https://goo.gl/maps/pRswmHtr5HYjTyRm8): 5 minutes from AKW
 
 
-**💡 A note on One-on-one meetings**:
-Some students requested meetings with specific faculty members. We have allocated time slots on Friday afternoon and Saturday morning for one-on-one meetings. The current schedule is [here](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing). This table is still being populated.
+<!-- **💡 A note on One-on-one meetings**: Some students requested meetings with specific faculty members. We have allocated time slots on Friday afternoon and Saturday morning for one-on-one meetings. The current schedule is [here](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing). This table is still being populated. -->
 
-## March 7th
+## March 6th
 
 | Time            | Event Details |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------|
 | **8:30am–9:45am**   | **Check-in & Breakfast**<br>Location: AKW 2nd Floor Atrium |
 | **9:45am–10:00am**  | **Break / Walk to Watson Center**<br>Walk to WTS |
-| **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A51 |
-| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A51<br> Panelists: [Quanquan Liu](https://quanquancliu.com/), [Dan Spielman](https://www.cs.yale.edu/homes/spielman/), [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/)<br>Moderator: [Fan Zhang](https://fanzhang.me) |
+| **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A60 |
+| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: TBD |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations |
-| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS A51): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), [Quanquan Liu](https://quanquancliu.com/)</li><li>**Session 2** (WTS A35): [Tom McCoy](https://rtmccoy.com/), [Tyler Brooke-Wilson](https://sites.google.com/site/tylerbrookewilson/Home), [Smita Krishnaswamy](https://krishnaswamylab.org/)</li><li>**Session 3** (WTS A53): [Alex Lew](https://alexlew.net/), [Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/), [Lin Zhong](https://www.linzhong.org/)</li></ul>|
-| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some [one-on-one meetings](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing) start at 1 pm_ |
-| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing) with faculty during this time<br>*Coffee will be served at 2:30pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
+| **11:15am–12:15pm** | **Faculty Research Showcase**<br> {{ showcase_cell() }} |
+| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>Note: Some [one-on-one meetings](#) start at 1 pm |
+| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](#) with faculty during this time<br>☕️ Coffee will be served at 2:30pm at AKW 2nd Floor Atrium| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
-| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: Alvin Shi, Anushka Potdar and Enyan Zhang. Moderated by Ulas Berk Karli |
+| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A60<br>Panelists: TBD |
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
 | **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium|
 | **5:45pm–6:00pm**   | **Break** |
 | **6:00pm–8:00pm**   | **Dinner at [Atelier Florian](https://atelierflorian.net/)**<br>Enjoy dinner with faculty and newly admitted CS PhD students.<br>Location: Atelier Florian, 1166 Chapel St, New Haven, CT 06511 |
 
-## March 8th
+## March 7th
 
 | Time            | Event Details |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -95,14 +133,64 @@ What should the legacy of our efforts be?
 
 Below are links to relevant sites about the Department and related organizations.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="2000"/>                                                                                                                                                                                                                                                                                                                          | <center>**Arthur K. Watson Hall**</center> <br/> Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The Computer Science Building is named in his honor. His father Thomas J. Watson, is the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the *[Yale Center for Research Computing](https://research.computing.yale.edu/)*. In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts.                                                                                                                                                                                                                |
-| <img src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1466108032030-BUJ24C168HW3EYH583T5/Logo.png?format=1500w" alt="Logo of the Center for Engineering Innovation and Design." width="2000"/><br/><img src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1442513008042-7HBDUIG63OAB2P1YVAHF/IMG_9578.jpg?format=1000w" alt="People of the Center for Engineering Innovation and Design." width="2000"/> | <center>**Center for Engineering Innovation and Design (CEID)**</center> <br/> Since opening in 2012, the Center for *[Engineering Innovation and Design (CEID)](http://ceid.yale.edu/)* has served as a hub for collaborative design and interdisciplinary activity at Yale University. Its goal is to enable the design, development, and actualization of ideas, from the whiteboard to the real world. Students, staff, and faculty from across Yale have access to CEID resources, participate in courses and events, and collaborate with CEID staff on a wide range of projects.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| <img src="https://ccam.yale.edu/sites/default/files/styles/featured_page_image/public/screenshot_2023-06-07_at_3.58.32_pm.png?itok=Q-8Rxv-r&c=15109914ad1111fccfd9698bf526e041" alt="Logo of the Center for Collaborative Arts and Media (CCAM)." width="2000"/>                                                                                                                                                                                              | <center>**Center for Collaborative Arts and Media (CCAM)**</center> <br/> At the *[Center for Collaborative Arts and Media (CCAM)](https://ccam.yale.edu/)*, students and faculty investigate intersections of art, science, and technology through research, programs, and exhibitions. A unit of Yale College Arts, CCAM guides students, faculty, and collaborators in expanding and exploring all manner of projects.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| <img src="https://yt3.googleusercontent.com/ytc/AIdro_n_RNkNZBH0K0VzshDrTQmxCbaWT__t7jw39_IhPF5ohA=s900-c-k-c0x00ffffff-no-rj" alt="Logo of the Yale Institute for Network Science (YINS)." width="2000"/>                                                                                                                                                                                                                                                    | <center>**Yale Institute for Network Science (YINS)**</center> <br/> The objective of the *[Yale Institute for Network Science (YINS)](https://yins.yale.edu/)* is to produce and disseminate knowledge related to network science, in all its forms and applications, and to make Yale a leader in the area. Not surprisingly, YINS is home to researchers hailing from different disciplines and schools across Yale University. Affiliated faculty and other researchers share many common technical and scientific challenges. These include: developing statistical and computational tools for processing big data; developing new models for complex networks; understanding how networks dynamically change in time; developing techniques for learning and inference in networks; developing methodologies for the design of networks; understanding diffusion processes (of germs, information, behaviors, etc.,) in networks; and understanding emergent behavior (i.e., how local interactions can lead to global phenomena). |
-| <img src="https://computationsociety.yale.edu/sites/default/files/images/banner-short-v4-black-center.png" alt="Logo of the Yale Computation and Society Initiative." width="2000"/>                                                                                                                                                                                                                                                                          | <center>**Yale Computation and Society Initiative**</center> <br/> The *[Computation and Society Initiative](https://computationsociety.yale.edu/)* brings together scientists from different disciplines to address the emerging questions that arise as algorithm and data-driven technologies permeate and alter various aspects of modern society. Examples of questions include understanding how humans behave in the face of algorithms and designing computational methods that empower society.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| <img src="https://www.architecturalrecord.com/ext/resources/Issues/2020/11-November/Tsai-Center-for-Innovative-Thinking-01-B.jpg?1603993357" alt="The Tsai Center for Innovative Thinking at Yale (Tsai CITY)." width="2000"/>                                                                                                                                                                                                                                | <center>**Tsai Center for Innovative Thinking at Yale (Tsai CITY)**</center> <br/> The *[Tsai Center for Innovative Thinking at Yale (Tsai CITY)](https://city.yale.edu/)* aims to inspire students from diverse backgrounds and disciplines to seek innovative ways to solve real-world problems. Launched in 2017, Tsai CITY serves students from across Yale’s campus through programs, funding, and mentoring. We’re building a new kind of innovation center, one rooted in inclusivity: here, students from all backgrounds tackle issues like climate change and civic engagement, develop creative projects from documentary films to digital platforms, and launch high-growth ventures and movements.                                                                                                                                                                                                                                                                                                                           |
+<div class="places-grid">
+  <div class="place-card">
+    <div class="place-media">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="200"/>
+    </div>
+    <div class="place-body">
+      <strong>Arthur K. Watson Hall</strong><br/>Arthur Kittredge “Dick” Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The Computer Science Building is named in his honor. His father Thomas J. Watson was the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the <em><a href="https://research.computing.yale.edu/">Yale Center for Research Computing</a></em>. In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts.
+    </div>
+  </div>
+
+  <div class="place-card">
+    <div class="place-media">
+      <img src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1466108032030-BUJ24C168HW3EYH583T5/Logo.png?format=1500w" alt="Logo of the Center for Engineering Innovation and Design." width="200"/><br/><img src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1442513008042-7HBDUIG63OAB2P1YVAHF/IMG_9578.jpg?format=1000w" alt="People of the Center for Engineering Innovation and Design." width="200"/>
+    </div>
+    <div class="place-body">
+      <strong>Center for Engineering Innovation and Design (CEID)</strong><br/>Since opening in 2012, the <em><a href="http://ceid.yale.edu/">Center for Engineering Innovation and Design (CEID)</a></em> has served as a hub for collaborative design and interdisciplinary activity at Yale University. Its goal is to enable the design, development, and actualization of ideas, from the whiteboard to the real world. Students, staff, and faculty from across Yale have access to CEID resources, participate in courses and events, and collaborate with CEID staff on a wide range of projects.
+    </div>
+  </div>
+
+  <div class="place-card">
+    <div class="place-media">
+      <img src="https://www.architecturalrecord.com/ext/resources/Issues/2020/11-November/Tsai-Center-for-Innovative-Thinking-01-B.jpg?1603993357" alt="The Tsai Center for Innovative Thinking at Yale (Tsai CITY)." width="200"/>
+    </div>
+    <div class="place-body">
+      <strong>Tsai Center for Innovative Thinking at Yale (Tsai CITY)</strong><br/>The <em><a href="https://city.yale.edu/">Tsai Center for Innovative Thinking at Yale (Tsai CITY)</a></em> aims to inspire students from diverse backgrounds and disciplines to seek innovative solutions to real-world problems. Launched in 2017, Tsai CITY supports students across Yale through programs, funding, and mentoring, emphasizing inclusivity, civic engagement, creative projects, and high-impact ventures.
+    </div>
+  </div>
+
+  <div class="place-card">
+    <div class="place-media">
+      <img src="https://humannaturelab.net/sites/default/files/responsive-images/2024-04/YINS_logotype-reverse-ai%282%29.png" alt="Logo of the Yale Institute for Network Science (YINS)." width="200" style="background:black;"/>
+    </div>
+    <div class="place-body">
+      <strong>Yale Institute for Network Science (YINS)</strong><br/>The objective of the <em><a href="https://yins.yale.edu/">Yale Institute for Network Science (YINS)</a></em> is to produce and disseminate knowledge related to network science in all its forms and applications, and to make Yale a leader in the area. YINS brings together researchers from different disciplines to address shared challenges such as big-data analysis, complex network modeling, diffusion processes, learning and inference, and emergent behavior.
+    </div>
+  </div>
+
+  <div class="place-card">
+    <div class="place-media">
+      <img src="https://computationsociety.yale.edu/sites/default/files/images/banner-short-v4-black-center.png" alt="Logo of the Yale Computation and Society Initiative." width="200"/>
+    </div>
+    <div class="place-body">
+      <strong>Yale Computation and Society Initiative</strong><br/>The <em><a href="https://computationsociety.yale.edu/">Computation and Society Initiative</a></em> brings together scientists from different disciplines to address emerging questions raised by algorithmic and data-driven technologies, including understanding human behavior in the presence of algorithms and designing computational methods that empower society.
+    </div>
+  </div>
+
+  <div class="place-card">
+    <div class="place-media">
+      <img src="/ccam.png" alt="Logo of the Center for Collaborative Arts and Media (CCAM)." width="200"/>
+    </div>
+    <div class="place-body">
+      <strong>Center for Collaborative Arts and Media (CCAM)</strong><br/>At the <em><a href="https://ccam.yale.edu/">Center for Collaborative Arts and Media (CCAM)</a></em>, students and faculty investigate intersections of art, science, and technology through research, programs, and exhibitions. A unit of Yale College Arts, CCAM guides students, faculty, and collaborators in expanding and exploring all manner of projects.
+    </div>
+  </div>
+
+
+</div>
+
 
 
 <!-- {{ new_block() }} -->
