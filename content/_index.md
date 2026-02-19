@@ -52,10 +52,6 @@ extra.1on1meeting = "https://visitday.cs.yale.edu"
     padding-bottom: .4rem;
     display: inline-block;
   }
-
-  p {
-    text-align: justify;
-  }
 </style>
 
 Congratulations again to all newly admitted PhD Students!

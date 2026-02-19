@@ -41,6 +41,10 @@ $color-black-dark: #e7e5e4 !default;
 
 $color-link-hover: darken !default;
 
+
+$body-font-family: "Source Sans 3", serif !default;
+$header-font-family: "Yale2024", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
 @import "_reset.scss";
 @import "_color.scss";
 @import "_layout.scss";
@@ -53,4 +57,3 @@ $color-link-hover: darken !default;
 @import "_places.scss";
 @import "_fonts.scss";
 @import "_main.scss";
-
