@@ -5,9 +5,10 @@ title = "Yale CS Visit Day '26"
 name = "Session 1"
 room = "WTS A60"
 people = [
+  { name = "Lin Zhong", url = "https://www.linzhong.org/" },
+  { name = "Fan Zhang", url = "https://fanzhang.me" },
   # { name = "Hoon Cho", url = "https://hcholab.org/" },
   # { name = "Katerina Sotiraki", url = "https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki" },
-  # { name = "Fan Zhang", url = "https://fanzhang.me" },
   # { name = "Quanquan Liu", url = "https://quanquancliu.com/" },
 ]
 
@@ -17,7 +18,7 @@ room = "WTS A53"
 people = [
   # { name = "Tom McCoy", url = "https://rtmccoy.com/" },
   # { name = "Tyler Brooke-Wilson", url = "https://sites.google.com/site/tylerbrookewilson/Home" },
-  # { name = "Smita Krishnaswamy", url = "https://krishnaswamylab.org/" },
+  { name = "Smita Krishnaswamy", url = "https://krishnaswamylab.org/" },
 ]
 
 [[extra.showcase.sessions]]
@@ -26,7 +27,8 @@ room = "WTS A74"
 people = [
   # { name = "Alex Lew", url = "https://alexlew.net/" },
   # { name = "Ruzica Piskac", url = "https://www.cs.yale.edu/homes/piskac/" },
-  # { name = "Lin Zhong", url = "https://www.linzhong.org/" },
+  { name = "Marynel Vázquez", url = "https://www.marynel.net/" },
+  { name = "Brian Scassellati", url = "http://cs-www.cs.yale.edu/homes/scaz/" },
 ]
 
 [[extra.showcase.sessions]]
@@ -78,8 +80,8 @@ Note the locations across events:
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **8:30am–9:45am**   | **Check-in & Breakfast**<br>Location: AKW 2nd Floor Atrium                                                                                                                                                   |
 | **9:45am–10:00am**  | **Break / Walk to Watson Center**<br>Walk to WTS                                                                                                                                                             |
-| **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A60<br>Streamline: <a href="https://yale.zoom.us/j/3878392760">https://yale.zoom.us/j/3878392760</a>                                                                                                                                   |
-| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: TBD                                                                                                                                    |
+| **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A60<br>Livestream: <a href="https://yale.zoom.us/j/3878392760">https://yale.zoom.us/j/3878392760</a> |
+| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: Marynel Vázquez, Arman Cohan, Alex Wong |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations                                                                                                                                            |
 | **11:15am–12:15pm** | **Faculty Research Showcase**<br> {{ showcase_cell() }}                                                                                                                                                      |
 | **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>Note: Some [one-on-one meetings](#) start at 1 pm                                                                                                       |

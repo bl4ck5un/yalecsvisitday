@@ -1,7 +1,7 @@
 {%- set sc = section.extra.showcase | default(value=false) -%}
 {%- if sc -%}
 <ul>{%- for s in sc.sessions -%}
-    <li><strong>{{ s.name }}</strong> ({{ s.room }}):
+    <li><strong>{{ s.name }}</strong> ({{ s.room }}):&nbsp
                 {%- if s.people | length == 0 -%}
                 TBD
                 {%- else -%}
