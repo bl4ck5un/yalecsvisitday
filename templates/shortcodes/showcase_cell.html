@@ -1,6 +1,7 @@
 {%- set sc = section.extra.showcase | default(value=false) -%}
 {%- if sc -%}
 <ul>{%- for s in sc.sessions -%}
+    {% if s.people | length > 0 %}
     <li><strong>{{ s.name }}</strong> ({{ s.room }}):&nbsp
                 {%- if s.people | length == 0 -%}
                 TBD
@@ -8,6 +9,7 @@
                 {%- for p in s.people -%}{% if not loop.first %}, {% endif %}<a href="{{ p.url }}">{{ p.name }}</a>{%- endfor -%}
                 {%- endif -%}
     </li>
+    {% endif %}
     {%- endfor -%}
 </ul>
 {%- else -%}

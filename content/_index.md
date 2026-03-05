@@ -9,7 +9,7 @@ people = [
   { name = "Fan Zhang", url = "https://fanzhang.me" },
   # { name = "Hoon Cho", url = "https://hcholab.org/" },
   # { name = "Katerina Sotiraki", url = "https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki" },
-  # { name = "Quanquan Liu", url = "https://quanquancliu.com/" },
+  { name = "Quanquan Liu", url = "https://quanquancliu.com/" },
 ]
 
 [[extra.showcase.sessions]]
@@ -39,8 +39,6 @@ people = [
   # { name = "Ruzica Piskac", url = "https://www.cs.yale.edu/homes/piskac/" },
   # { name = "Lin Zhong", url = "https://www.linzhong.org/" },
 ]
-
-extra.1on1meeting = "https://visitday.cs.yale.edu"
 +++
 
 <style>
@@ -72,7 +70,8 @@ Note the locations across events:
 - [Watson Center (WTS)](https://goo.gl/maps/pRswmHtr5HYjTyRm8): 5 minutes from AKW
 
 
-<!-- **💡 A note on One-on-one meetings**: Some students requested meetings with specific faculty members. We have allocated time slots on Friday afternoon and Saturday morning for one-on-one meetings. The current schedule is [here](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing). This table is still being populated. -->
+[New!]
+**💡 A note on One-on-one meetings**: Some students requested meetings with specific faculty members. We have allocated time slots on Friday afternoon and Saturday morning for one-on-one meetings. The current schedule is [here](https://docs.google.com/spreadsheets/d/1Fw0wWlKUgNYWfNgqiFShPDqZMTIeLx7HnMUyVjLib1w/edit?usp=sharing). This table is still being populated.
 
 ## March 6th
 
@@ -81,13 +80,13 @@ Note the locations across events:
 | **8:30am–9:45am**   | **Check-in & Breakfast**<br>Location: AKW 2nd Floor Atrium                                                                                                                                                   |
 | **9:45am–10:00am**  | **Break / Walk to Watson Center**<br>Walk to WTS                                                                                                                                                             |
 | **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A60<br>Livestream: <a href="https://yale.zoom.us/j/3878392760">https://yale.zoom.us/j/3878392760</a> |
-| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: Marynel Vázquez, Arman Cohan, Alex Wong |
+| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A60<br> Panelists: Marynel Vázquez, Arman Cohan, Alex Wong, Brian Scassellati |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations                                                                                                                                            |
 | **11:15am–12:15pm** | **Faculty Research Showcase**<br> {{ showcase_cell() }}                                                                                                                                                      |
-| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>Note: Some [one-on-one meetings](#) start at 1 pm                                                                                                       |
-| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](#) with faculty during this time<br>☕️ Coffee will be served at 2:30pm at AKW 2nd Floor Atrium                           | **2:00pm–3:00pm** | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
+| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>Note: Some [one-on-one meetings](https://docs.google.com/spreadsheets/d/1Fw0wWlKUgNYWfNgqiFShPDqZMTIeLx7HnMUyVjLib1w/edit?usp=sharing) start at 1 pm                                                                                                       |
+| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](https://docs.google.com/spreadsheets/d/1Fw0wWlKUgNYWfNgqiFShPDqZMTIeLx7HnMUyVjLib1w/edit?usp=sharing) with faculty during this time<br>☕️ Coffee will be served at 2:30pm at AKW 2nd Floor Atrium                           | **2:00pm–3:00pm** | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium                                                                                                                    |
-| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A60<br>Panelists: TBD                                                                                                                                 |
+| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A60|
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students                                                                                                                         |
 | **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium                                                                                                                   |
 | **5:45pm–6:00pm**   | **Break**                                                                                                                                                                                                    |
@@ -97,7 +96,7 @@ Note the locations across events:
 
 | Time                | Event Details                                                                                                                                                                                                                                   |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **9:00am–10:45am**  | **Breakfast with Faculty/Lab Tours**<br>Meet with your faculty hosts, tour their labs and see their research in action!<br><br>**Individual one-on-one meetings**<br>Some students might have one-on-one meetings with faculty during this time |
+| **9:00am–10:45am**  | **Breakfast with Faculty/Lab Tours**<br>Meet with your faculty hosts, tour their labs and see their research in action!<br><br>**Individual one-on-one meetings**<br>Some students might have [one-on-one meetings](https://docs.google.com/spreadsheets/d/1Fw0wWlKUgNYWfNgqiFShPDqZMTIeLx7HnMUyVjLib1w/edit?usp=sharing) with faculty during this time |
 | **10:45am–11:00am** | **Break / Transition**<br>Walk to Campus Tour                                                                                                                                                                                                   |
 | **11:00am–12:00pm** | **Yale Campus Tour**<br>Location: Yale Visitor Center at 149 Elm Street, New Haven, CT 06511                                                                                                                                                    |
 | **12:00pm onwards** | **Explore New Haven on Your Own**                                                                                                                                                                                                               |
