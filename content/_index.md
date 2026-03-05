@@ -71,7 +71,7 @@ Note the locations across events:
 
 
 [New!]
-**💡 A note on One-on-one meetings**: Some students requested meetings with specific faculty members. We have allocated time slots on Friday afternoon and Saturday morning for one-on-one meetings. The current schedule is [here](https://docs.google.com/spreadsheets/d/1Fw0wWlKUgNYWfNgqiFShPDqZMTIeLx7HnMUyVjLib1w/edit?usp=sharing). This table is still being populated.
+**💡 Schedule for one-on-one meetings**: If you requested meetings with specific faculty, please check the meeting times [here](https://docs.google.com/spreadsheets/d/1Fw0wWlKUgNYWfNgqiFShPDqZMTIeLx7HnMUyVjLib1w/edit?usp=sharing). If some faculty members are not available to meet with you individually, we encourage you to use the common events (breakfast, lunch, social hours, dinner) to interact with them.
 
 ## March 6th
 
