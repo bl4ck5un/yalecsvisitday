@@ -29,6 +29,7 @@ people = [
   # { name = "Ruzica Piskac", url = "https://www.cs.yale.edu/homes/piskac/" },
   { name = "Marynel Vázquez", url = "https://www.marynel.net/" },
   { name = "Brian Scassellati", url = "http://cs-www.cs.yale.edu/homes/scaz/" },
+  { name = "Alex Wong", url = "https://vision.cs.yale.edu/members/alex-wong/" },
 ]
 
 [[extra.showcase.sessions]]
